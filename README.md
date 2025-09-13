@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Personal_portfolio
 
 # Personal Portfolio Website in React
