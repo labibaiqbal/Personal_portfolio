@@ -1,5 +1,3 @@
-import colorSharp from "../assets/img/color-sharp.png";
-
 export const Experiences = () => {
   return (
     <section className="skill" id="skills">
