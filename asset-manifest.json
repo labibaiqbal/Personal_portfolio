@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/labibaiqbal/Personal_portfolio/static/css/main.59d25ae9.css",
-    "main.js": "/labibaiqbal/Personal_portfolio/static/js/main.45cba453.js",
+    "main.js": "/labibaiqbal/Personal_portfolio/static/js/main.cec14612.js",
     "static/js/787.fb771931.chunk.js": "/labibaiqbal/Personal_portfolio/static/js/787.fb771931.chunk.js",
     "static/media/project-img1.png": "/labibaiqbal/Personal_portfolio/static/media/project-img1.11ead5334e255f78280f.png",
     "static/media/project-img3.png": "/labibaiqbal/Personal_portfolio/static/media/project-img3.c2c046c765134cda6c54.png",
@@ -17,11 +17,11 @@
     "index.html": "/labibaiqbal/Personal_portfolio/index.html",
     "static/media/nav-icon1.svg": "/labibaiqbal/Personal_portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.59d25ae9.css.map": "/labibaiqbal/Personal_portfolio/static/css/main.59d25ae9.css.map",
-    "main.45cba453.js.map": "/labibaiqbal/Personal_portfolio/static/js/main.45cba453.js.map",
+    "main.cec14612.js.map": "/labibaiqbal/Personal_portfolio/static/js/main.cec14612.js.map",
     "787.fb771931.chunk.js.map": "/labibaiqbal/Personal_portfolio/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59d25ae9.css",
-    "static/js/main.45cba453.js"
+    "static/js/main.cec14612.js"
   ]
 }
