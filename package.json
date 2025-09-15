@@ -26,7 +26,7 @@
     "react-vertical-timeline-component": "^3.5.3",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/labibaiqbal/Personal_portfolio",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
