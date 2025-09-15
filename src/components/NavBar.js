@@ -2,7 +2,6 @@ import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import navIcon3 from "../assets/img/icons8-github-500.svg";
-// import { BrowserRouter as Router } from "react-router-dom";
 import resumePDF from "../assets/LabibaIqbal_NewGrad_resume.pdf";
 
 export const NavBar = () => {
