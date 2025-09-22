@@ -52,7 +52,7 @@ export const Banner = () => {
   return (
     <section className="banner" id="home">
       <Container>
-        <Row className="aligh-items-center gx-5">
+        <Row className="aligh-items-center gx-3">
           <Col xs={12} md={6} xl={7}>
             <div className="about">
               <h1>
@@ -84,7 +84,7 @@ export const Banner = () => {
               <p>
                 Here’s a look at my experience and projects to showcase my
                 skills, while I continue learning and growing while sipping on
-                my matcha latte :)
+                my iced matcha latte :)
               </p>
             </div>
           </Col>

@@ -1,6 +1,6 @@
 export const Experiences = () => {
   return (
-    <section className="skill" id="skills">
+    <section className="skill" id="experiences">
       <div className="container">
         <h2> Work Experience</h2>
 
@@ -8,7 +8,9 @@ export const Experiences = () => {
         <div className="experience-scroll">
           <div className="experience-item">
             <h5>Software Engineer Intern</h5>
-            <p>Allstate Canada – September 2022 – April 2023</p>
+            <p className="company">
+              Allstate Canada – September 2022 – April 2023
+            </p>
             <ul>
               <li>
                 Collaborated cross-functionally to remodel the My Allstate
@@ -66,7 +68,7 @@ export const Experiences = () => {
 
           <div className="experience-item">
             <h5> CyberSecurity Research Intern</h5>
-            <p>Phishing Project – Sept 2024 to Dec 2024</p>
+            <p>University Of Waterloo – Sept 2024 to Dec 2024</p>
             <ul>
               <li>
                 Developed a security analysis program using Python to automate

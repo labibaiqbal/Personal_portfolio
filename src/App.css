@@ -102,7 +102,7 @@ nav.navbar {
   transition: 0.32s ease-in-out;
 }
 nav.navbar.scrolled {
-  padding: 0px 0;
+  padding: 0px;
   background-color: #6d4e7eaf;
 }
 nav.navbar a.navbar-brand {
@@ -305,7 +305,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .profile-pic img {
   display: block;
   border-radius: 5%;
-  width: 450px; /* adjust size */
+  width: 100%; /* adjust size */
   height: 100%; /* keep square to stay perfectly round */
   object-fit: cover;
 }
@@ -367,7 +367,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   color: #6d4e7e;
 }
 .skill p {
-  color: #cec6d5;
+  color: white;
+  font-weight: 500;
   font-size: 18px;
   letter-spacing: 0.8px;
   line-height: 1.5em;
@@ -424,6 +425,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .project p {
   color: #6d4e7e;
   font-size: 18px;
+  font-weight: 500;
+  padding: 10px;
   letter-spacing: 0.8px;
   line-height: 1.5em;
   margin: 14px auto 30px auto;
@@ -431,7 +434,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   text-align: center;
   width: 56%;
 }
-.project .nav.nav-pills {
+/* .project .nav.nav-pills {
   width: 72%;
   margin: 0 auto;
   border-radius: 50px;
@@ -465,8 +468,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   left: 0;
   z-index: -1;
   transition: 0.3s ease-in-out;
-}
-.project .nav.nav-pills .nav-link.active::before {
+} */
+/* .project .nav.nav-pills .nav-link.active::before {
   width: 100% !important;
 }
 .project .nav.nav-pills .nav-link.active {
@@ -483,10 +486,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .nav-link#projects-tabs-tab-third {
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 0 55px 55px 0;
-}
+} */
 .proj-imgbx {
   position: relative;
-
   overflow: hidden;
   margin-bottom: 24px;
   border-radius: 6px;
@@ -513,6 +515,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   opacity: 0;
   width: 100%;
 }
+.proj-imgbx .des {
+  padding: 5px;
+}
 
 .github-link {
   display: inline-block;
@@ -536,12 +541,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.8px;
   line-height: 1.1em;
 }
-.proj-txtx span {
+/* .proj-txtx span {
   font-style: italic;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 15px;
   letter-spacing: 0.8px;
-}
+} */
 .background-image-right {
   top: 20%;
   position: absolute;
