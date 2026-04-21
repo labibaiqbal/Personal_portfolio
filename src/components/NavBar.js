@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
 import navIcon1 from "../assets/img/nav-icon1.svg";
 import navIcon3 from "../assets/img/icons8-github-500.svg";
-import resumePDF from "../assets/LabibaIqbal_NewGrad_resume.pdf";
+import resumePDF from "../assets/Iqbal_Labiba_Resume.pdf";
 import { HashRouter as Router } from "react-router-dom";
 
 export const NavBar = () => {
